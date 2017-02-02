@@ -25,6 +25,4 @@ Speakers, volunteers, and organizers.
 
 Other files in this directory include the following:
 
-- `schedule.json` <br>List of the times of the talks, panel, and keynote, and more.
-
-
+- `schedule.json` <br>List of the times and events. <a href="schedule.json.md">readme</a>

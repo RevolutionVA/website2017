@@ -1,0 +1,3 @@
+Dad. Husband. Consultant. I help businesses push into the future via amazing technologies. Let me know if I can help your business. Kevin Griffin is an author, teacher, mentor, and consultant focusing in software development. He is the author of the Twilio Blueprint (http://twilioblueprint.com). 
+
+As an independent consultant, Kevin specializes in helping businesses push their technology stacks into the 21st century. You can often find Kevin speaking at conferences and user groups across the country or blogging at (http://kevgriffin.com).
