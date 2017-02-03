@@ -9,6 +9,6 @@
   "company_website": "http:\/\/kevgriffin.com",
   "include_company": true,
   "company_name": "Griffin Consulting",
-  "notes": "",
-  "name": "Kevin Griffin"
+  "firstName": "Kevin",
+  "lastName": "Griffin"
 }

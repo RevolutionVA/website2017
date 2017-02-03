@@ -9,5 +9,6 @@
   "company_website": "http:\/\/eta.im",
   "include_company": true,
   "company_name": "ETA",
-  "name": "Linda Nichols"
+  "firstName": "Linda",
+  "lastName": "Nichols"
 }
