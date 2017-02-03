@@ -1,0 +1,13 @@
+{
+  "title": "Job Title",
+  "slug": "firstname-lastname",
+  "role": "role",
+  "twitter": "account",
+  "facebook": "account",
+  "linkedin": "account",
+  "personal_website": "http:\/\/personal.com",
+  "company_website": "http:\/\/company.com",
+  "company_name": "Company Inc.",
+  "firstName": "Human",
+  "lastName": "Person"
+}

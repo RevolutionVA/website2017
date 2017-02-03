@@ -1,0 +1,3 @@
+Aimee Knight is a former figure skater, and software engineer at SparkPost. Outside of work, she’s a weekly panelist on the JavaScript Jabber and Angular Air podcasts, and co-organizer of CharmCityJS. 
+
+In her spare time, she’s usually playing with a new library or technology, running along the Baltimore harbor, or trying out the latest flavor of Kombucha. Find her, and her contagious enthusiasm on Twitter @Aimee_Knight!

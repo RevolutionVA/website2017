@@ -1,0 +1,3 @@
+Erika Carlson was studying psychology in 2011 when she wrote her first line of Python code. She fell in love with programming, decided to change paths, and became a software developer. Since then she has built Java enterprise software, created websites for non-profits, and worked on iOS applications with millions of users. 
+
+She is currently the Director of Apprenticeship at Detroit Labs. Erika founded the Detroit chapter of Girl Develop It, and teaches programming and web development to students of all ages. She is passionate about the potential of technology to make a difference in people's lives and create positive change in the world.
