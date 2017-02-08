@@ -25,6 +25,7 @@ The following properties in the details will be used.
 Level must be one of the following for the sponsor to appear on the site:
 
 - Premier
+- Dilithium
 - Gold
 - Platinum
 - Gold
