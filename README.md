@@ -26,3 +26,6 @@ Speakers, volunteers, and organizers.
 Other files in this directory include the following:
 
 - `schedule.json` <br>List of the times and events. <a href="schedule.json.md">readme</a>
+
+
+*Note: Files prefixed with `.` or `_` are ignored by the compiler.*
