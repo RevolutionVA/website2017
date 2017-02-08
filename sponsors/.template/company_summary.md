@@ -1,0 +1,3 @@
+Strickland sells propane and propane accessories, including grills such as the Vogner Char-King, Char-King Imperiale and Vogner Citizen, which are showcased during the annual "Grillstravaganza" sale. 
+
+The company has five branch offices in Texas, known as Strickland Propane, Strickland North, South, East, and West. It is unknown how far these branches are from the Arlen headquarters, though Buck has said that North is in "charcoal country" which he thinks is the reason for the low sales numbers at that branch. Buck would eventually lose the North division from gambling.

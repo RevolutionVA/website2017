@@ -15,10 +15,10 @@ The following properties in the details will be used.
 
 ```
 {
-  title: "Issuetrak",
-  slug: "issuetrak",
-  url: "https://www.issuetrak.com/",
-  level: "Premier"
+  "title": "Issuetrak",
+  "slug": "issuetrak",
+  "url": "https://www.issuetrak.com/",
+  "level": "Premier"
 }
 ```
 
