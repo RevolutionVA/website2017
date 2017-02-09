@@ -1,16 +1,16 @@
 [
   {
-    "cssClass" : "fa fa-twitter",
+    "icon" : "twitter",
     "url": "https://twitter.com/revconf",
     "name": "Twitter"
   },
   {
-    "cssClass" : "icon-lanyrd",
+    "icon" : "lanyrd",
     "url": "http://lanyrd.com/2017/revconf/",
     "name": "Lanyrd"
   },
   {
-    "cssClass" : "fa fa-envelope",
+    "icon" : "envelope",
     "url": "mailto:team@revolutionconf.com",
     "name": "EMail"
   }
