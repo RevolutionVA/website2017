@@ -1,0 +1,3 @@
+Emerging Technology Advisors (ETA) was founded around the mission of assisting large enterprise organizations keep up with the constant change in the technology field. We provide a holistic approach to reinvent organizations by leveraging next generation innovations and concepts, which has worked tremendously for our clients. 
+
+We do not just reimagine product lines or define corporate strategy - we work with your employees directly to re-ignite their desire to change the world. We are not people that that just talk about technology, we are actually the ones building, exploring, supporting, and, as needed, creating the emerging technology that will change the world.

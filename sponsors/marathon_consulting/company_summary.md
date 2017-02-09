@@ -1,0 +1,1 @@
+Marathon Consulting is one of the fastest growing and most successful Information Technology Consulting firms in the Hampton Roads region. Our name, our growth, and public recognition are the results of our total commitment to our clients’ success. Over 95% of our revenue comes from referrals and repeat business. Therefore, commitment to client success is a full time job.

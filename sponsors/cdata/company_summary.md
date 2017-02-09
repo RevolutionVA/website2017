@@ -1,0 +1,3 @@
+CData Software is a leading provider of data access and connectivity solutions. We specialize in the development of Drivers and data access technologies for real-time access to on-line or on-premise applications, databases, and Web APIs. Our drivers are universally accessible, providing access to data through established data standards and application platforms such as ODBC, JDBC, ADO.NET, OData, SSIS, BizTalk, Excel, etc.
+
+We are fully committed to providing our customers with high-performance, reliable, and fully extensible products. We know your organization places a large investment in data management and we are proud to be a trusted provider of data integration products.
