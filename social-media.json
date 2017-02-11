@@ -1,16 +1,21 @@
 [
   {
-    "icon" : "twitter",
-    "url": "https://twitter.com/revconf",
+    "icon": "twitter",
+    "url": "https://twitter.com/revconf/",
     "name": "Twitter"
   },
   {
-    "icon" : "lanyrd",
+    "icon": "lanyrd",
     "url": "http://lanyrd.com/2017/revconf/",
     "name": "Lanyrd"
   },
   {
-    "icon" : "envelope",
+    "icon": "facebook",
+    "url": "https://www.facebook.com/revconf/",
+    "name": "Facebook"
+  },
+  {
+    "icon": "envelope",
     "url": "mailto:team@revolutionconf.com",
     "name": "EMail"
   }

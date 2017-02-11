@@ -9,7 +9,10 @@ Each sponsor consists of a folder in the format of company_name. Each sponsor ha
     logo.png
 ```
 
-Logo images should be between 300x300 and 600x600 pixels.
+Logo images should:
+* be between 450x450 and 600x600 pixels
+* have a transparent background
+* look good on a black background
 
 The following properties in the details will be used.
 
