@@ -24,8 +24,8 @@ RevolutionConf staff will be happy to help participants contact hotel/venue secu
 
 We expect participants to follow these rules at RevolutionConf venues and conference-related social events.
 
-_Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)_
+*Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)*
 
-_Please help by translating or improving: [http://github.com/leftlogic/confcodeofconduct.com](https://github.com/leftlogic/confcodeofconduct.com)_
+*Please help by translating or improving: [http://github.com/leftlogic/confcodeofconduct.com](https://github.com/leftlogic/confcodeofconduct.com)*
 
-_This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)_
+*This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)*
