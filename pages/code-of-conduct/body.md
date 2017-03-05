@@ -26,6 +26,6 @@ We expect participants to follow these rules at RevolutionConf venues and confer
 
 _Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)_
 
-_Please help by translating or improving: [http://github.com/leftlogic/confcodeofconduct.com](https://github.com/leftlogic/confcodeofconduct.com)
+_Please help by translating or improving: [http://github.com/leftlogic/confcodeofconduct.com](https://github.com/leftlogic/confcodeofconduct.com)_
 
-This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)_
+_This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)_
