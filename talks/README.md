@@ -19,5 +19,7 @@ The following properties in the details will be used.
 }
 ```
 The slug must be all lowercase alphanumeric characters or dashes.
+
 The speaker must be the folder name of an existing human.
+
 The summary must be a string of non-html maximum 140 characters.
