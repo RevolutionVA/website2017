@@ -18,7 +18,7 @@ The following properties in the details will be used.
   "summary: "What do my pets do when no one is around? I decided to find out. My session will cover how (and then some)."
 }
 ```
-The slug must be all lowercase alphanumeric characters or dashes.
+The slug must be all lowercase alphanumeric characters or dashes equal to the folder name.
 
 The speaker must be the folder name of an existing human.
 
