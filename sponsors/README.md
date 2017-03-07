@@ -21,13 +21,12 @@ The following properties in the details will be used.
   "title": "Strickland Propane",
   "slug": "strickland-propane",
   "url": "https://www.stricklandpropane.com/",
-  "level": "Premier"
+  "level": "Platinum"
 }
 ```
 
 Level must be one of the following for the sponsor to appear on the site:
 
-- Premier
 - Platinum
 - Gold
 - Bronze
