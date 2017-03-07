@@ -15,8 +15,9 @@ The following properties in the details will be used.
   "title": "Building Motion Detecting Web Apps with JavaScript",
   "slug: "building-a-motion-activated-snapshot-feed",
   "speaker": "lastName_firstName",
-  "summary: "What do my pets do when no one is around? I decided to find out. My session will cover how (and then some). A webcam and some JavaScript using WebRTC is enough to take snapshots, but the trick is find."
+  "summary: "What do my pets do when no one is around? I decided to find out. My session will cover how (and then some)."
 }
 ```
-
-The speaker value must be the folder name of an existing human.
+The slug must be all lowercase alphanumeric characters or dashes.
+The speaker must be the folder name of an existing human.
+The summary must be a string of non-html maximum 140 characters.
