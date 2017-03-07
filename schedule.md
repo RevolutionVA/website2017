@@ -6,12 +6,14 @@ The schedule object is an array of events. Each event object will be either a ta
 ####Talk Event
 ```
 {
-	"talk" : "howitsmade_revconf2017",
+	"talk" : "howitsmade-revconf2017",
 	"location": "Lynnhaven Room",
 	"start" : "01-06-2017-1000"
 	"end" : "01-06-2017-1050"
 }
 ```
+
+The talk value must be the name of a folder/slug.
 
 ####Other Event
 
