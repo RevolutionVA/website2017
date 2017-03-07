@@ -30,8 +30,9 @@ The following properties in the details will be used.
 
 Role must be one of the following for the human to appear on the site:
 
-- Speaker
-- Keynote Speaker
-- Volunteer
 - Board Member
+- Keynote Speaker
 - Organizer
+- Panelist
+- Speaker
+- Volunteer
