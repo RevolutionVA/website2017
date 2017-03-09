@@ -17,7 +17,7 @@ The following properties in the details will be used.
 {
   "title": "CEO",
   "slug": "erik-olson",
-  "role": "Organizer",
+  "role": ["Organizer","Speaker"],
   "twitter": "erikpmp",
   "facebook": "erikpmp",
   "linkedin": "erikpmp",
@@ -28,7 +28,7 @@ The following properties in the details will be used.
 }
 ```
 
-Role must be one of the following for the human to appear on the site:
+A human must have at least one of the following for the human to appear on the site:
 
 - Board Member
 - Keynote Speaker
