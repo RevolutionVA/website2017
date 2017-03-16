@@ -5,9 +5,9 @@
   "twitter": "account",
   "facebook": "account",
   "linkedin": "account",
-  "personal_website": "http:\/\/personal.com",
-  "company_website": "http:\/\/company.com",
-  "company_name": "Company Inc.",
+  "personalWebsite": "http:\/\/personal.com",
+  "companyWebsite": "http:\/\/company.com",
+  "companyName": "Company Inc.",
   "firstName": "Human",
   "lastName": "Person"
 }

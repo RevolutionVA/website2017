@@ -21,9 +21,9 @@ The following properties in the details will be used.
   "twitter": "erikpmp",
   "facebook": "erikpmp",
   "linkedin": "erikpmp",
-  "personal_website": "",
-  "company_website": "https:\/\/thisisarray.com",
-  "company_name": "Array Digital",
+  "personalWebsite": "",
+  "companyWebsite": "https:\/\/thisisarray.com",
+  "companyName": "Array Digital",
   "first_name": "Erik",
   "last_name": "Olson"
 }

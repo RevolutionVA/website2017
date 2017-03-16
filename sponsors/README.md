@@ -1,6 +1,6 @@
 # Sponsors 
 
-Each sponsor consists of a folder in the format of company_name. Each sponsor has details data in json format, company information description in markdown, and a company logo.
+Each sponsor consists of a folder in the format of company_name (lowercase underscores for spaces). Each sponsor has details data in json format, company information description in markdown, and a company logo.
 
 ```
 /strickland_propane
