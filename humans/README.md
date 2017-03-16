@@ -22,9 +22,10 @@ The following properties in the details will be used.
   "facebook": "erikpmp",
   "linkedin": "erikpmp",
   "personal_website": "",
-  "company_website": "http:\/\/8020.co",
-  "company_name": "80|20",
-  "name": "Erik Olson"
+  "company_website": "https:\/\/thisisarray.com",
+  "company_name": "Array Digital",
+  "first_name": "Erik",
+  "last_name": "Olson"
 }
 ```
 
