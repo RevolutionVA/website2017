@@ -24,8 +24,8 @@ The following properties in the details will be used.
   "personalWebsite": "",
   "companyWebsite": "https:\/\/thisisarray.com",
   "companyName": "Array Digital",
-  "first_name": "Erik",
-  "last_name": "Olson"
+  "firstName": "Erik",
+  "lastName": "Olson"
 }
 ```
 
