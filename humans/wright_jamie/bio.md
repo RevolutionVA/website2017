@@ -1,0 +1,1 @@
+Jamie Wright is a maker of internet things with a love/hate relationship for Redbull™, standing desks, and paintball guns. He has a love only relationship with teaching, learning, and building bots. Jamie runs Tatsu, a software bot that helps teams save time by performing standup meetings over Slack.

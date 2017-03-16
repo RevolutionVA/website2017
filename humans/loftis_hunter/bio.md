@@ -1,0 +1,1 @@
+I'm the JavaScript junkie who runs the Languages engineering team at Heroku. I'm an average programmer who builds beautiful things by sticking with simple concepts. From North Carolina, motorcyclist, wannabe-sailor, I bombed the biggest presentation I ever gave (JSConf EU) but it led to the best talk I ever made (several iterations later).

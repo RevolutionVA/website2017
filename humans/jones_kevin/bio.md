@@ -1,0 +1,1 @@
+I'm Kevin Jones, and I do security for a living. Specifically, I've been working on cryptography and web security for the past 12 years. I've helped companies, customers, and individuals with web application security, including HTTPS deployments and reviews. I also moonlight as a .NET Developer and Microsoft MVP.

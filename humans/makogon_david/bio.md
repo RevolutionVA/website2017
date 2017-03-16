@@ -1,0 +1,1 @@
+David Makogon has been a software creationist and architect for about 30 years, yet still claims he's about 29 years old. He’s currently a Senior Azure Architect at Microsoft, and has the dubious title of World’s First Former Azure MVP. This former MongoDB Master has recently been recognized as a Neo4j Ambassador in 2016.

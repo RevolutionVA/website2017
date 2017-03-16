@@ -1,0 +1,7 @@
+Mike is a developer trainer, with clients ranging from Silicon Valley giants to startups all over the world. He has a passion for enabling teams to use the latest and greatest modern web technologies without leaving their users behind.
+
+Before becoming a modern web consultant, Mike was the CTO of Levanto Financial and UI Architect of Yahoo’s Ads & Data division, where he worked to unify the company’s portfolio of ad products into a single cohesive user experience, around a foundation of open source, modern web standards.
+
+Having a passion for developer productivity and moving fast to get a product into production, Mike is naturally drawn to opinionated frameworks and tools that help reduce the number of decisions developers must make in their day-to-day work. He intends to keep “hands on” engineering and product development as part of his job for the foreseeable future and strives to be data driven and user-informed when making decisions.
+
+Over the past five years, Mike has contributed to the modern web community through speaking and teaching across four continents, building video courses and publishing written curriculum, and organizing community events to bring experts and users together. He is currently a business and technology advisor for two stealth mode startups.

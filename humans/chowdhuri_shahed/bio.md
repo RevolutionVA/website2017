@@ -1,0 +1,1 @@
+Shahed Chowdhuri is a Senior Technical Evangelist for Microsoft, a published author and a public speaker in the DC Metro area. He focuses on app/game/web development, and Azure cloud training for startups, independent developers, enterprise developers and students. You can find him blogging at http://WakeUpAndCode.com or on Twitter via @shahedC

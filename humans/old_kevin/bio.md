@@ -1,0 +1,1 @@
+Kevin Old is a Front End Architect living White House, TN. He works for LifeWay Christian Resources building front ends using React, React Native, and Electron. He's a huge fan of coffee, micro-roasters and the entire ecosystem around single origin coffee. When he is not developing software he enjoys spending time with his wife, 2 sons, 2 dachshunds and cat.

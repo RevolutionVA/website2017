@@ -1,0 +1,1 @@
+Laura Elizabeth is an independent designer with a hankering for cross stitch and rockets. She also runs Design Academy which aims to help developers conquer their fear of design.

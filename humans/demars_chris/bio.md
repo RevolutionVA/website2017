@@ -1,0 +1,1 @@
+My name is Chris DeMars and I am a Senior UI Developer at United Shore in Troy, Michigan. I am also an instructor and teacher assistant for the Ann Arbor and Detroit chapters of Girl Develop It. I love coming up with solutions for enterprise applications, which include modular CSS architectures, performance, and promoting Web accessibility.

@@ -1,0 +1,1 @@
+Zeno Rocha is a Principal Developer Advocate at Liferay, Inc. He dedicates a lot of his time traveling to show how awesome HTML5 is, contributing to hundreds of open source projects (like clipboard.js), and creating tools to help developers build great applications. Besides that, he's a member of the Google Developers Expert program and co-founder of BrazilJS Foundation.
