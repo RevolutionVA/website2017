@@ -17,7 +17,7 @@ The following properties in the details will be used.
 {
   "title": "CEO",
   "slug": "erik-olson",
-  "role": ["Organizer","Speaker"],
+  "role": ["Organizer","Volunteer"],
   "twitter": "erikpmp",
   "facebook": "erikpmp",
   "linkedin": "erikpmp",
