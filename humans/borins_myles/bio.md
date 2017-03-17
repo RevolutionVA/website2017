@@ -1,0 +1,1 @@
+Myles Borins is a developer, musician, artist, and inventor. He spends most of his time contributing to the node.js ecosystem. He graduated with a Master of Music Science and Technology from c.c.r.m.a. a.k.a the center for computer research in music and acoustics.
