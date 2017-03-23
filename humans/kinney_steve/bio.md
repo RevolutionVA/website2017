@@ -1,1 +1,0 @@
-Steve is the director of the front-end engineering program at the Turing School of Software and Design in Denver, Colorado where he teaches JavaScript and other technologies to aspiring developers from across the country. He is a recovering New York City public school teacher and recently learned how to drive a car.
