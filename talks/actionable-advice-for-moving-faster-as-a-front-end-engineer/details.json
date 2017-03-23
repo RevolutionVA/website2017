@@ -1,0 +1,9 @@
+{
+  "title": "Actionable Advice for Moving Faster as a Front-end Engineer",
+  "slug": "actionable-advice-for-moving-faster-as-a-front-end-engineer",
+  "speaker": "saimon-sharif",
+  "summary": "This talk will cover framework agnostic tips for debugging and implementing features faster as a front-end engineer. They are actionable in that attendees can use them almost immediately. Examples of tips include debugging CSS by deleting markup and mocking missing data to create features faster.",
+  "tags": [
+    "javascript"
+  ]
+}

@@ -1,0 +1,7 @@
+It turns out that the markets that represent the "next billion" (a horrible buzz-word, but it conveys the idea well enough) are radically different than the first two billion folks reached by computing.  Case in point, most folks in the first two billion had experience with some form of personal computing but the "next billion" only have cell phones as their primary computing devices.
+
+The experience of computing in the new market is drastically different, as well.  In parts of Africa the "network" is actually a sneaker net where young kids are payed to run SD cards from house to house.  The method of payment is radically different as the cell operators also function as a bank.
+
+With mobile and desktop computing in a kind of refractory period (I can source this if you'd like, but the long and short is that mobile has just undergone a massive period of consolidation while desktop sales have been on a steady decline) it becomes imperative for a forward looking company to plan for how they will address and monetize such a radically different market.
+
+This talk will cover how the new market differs from the tried and true markets and will explore some approaches to reaching these folks, if not monetizing them.

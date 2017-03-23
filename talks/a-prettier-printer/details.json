@@ -1,0 +1,10 @@
+{
+  "title": "A Prettier Printer",
+  "slug": "a-prettier-printer",
+  "speaker": "james-long",
+  "summary": "Prettier. It knows how to wrap code and always produces a consistent style. I will show you how productive you can be if your JavaScript is automatically formatted. Forget about your hand-crafted JavaScript, and say hello to consistency!",
+  "tags": [
+    "javascript",
+    "react"
+  ]
+}

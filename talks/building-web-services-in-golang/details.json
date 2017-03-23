@@ -1,0 +1,10 @@
+{
+  "title": "Building Web Services in Golang",
+  "slug": "building-web-services-in-golang",
+  "speaker": "stanley-zheng",
+  "summary": "Golang is a language used in production at companies to build high performance systems. It is a simple language with a rich community that makes writing something like a web service that services thousands of request/second easy. Attendees will leave as new gophers ready to start their own projects!",
+  "tags": [
+    "backend",
+    "golang"
+  ]
+}

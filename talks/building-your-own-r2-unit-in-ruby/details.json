@@ -1,0 +1,10 @@
+{
+  "title": "Building Your Own R2 Unit in Ruby",
+  "slug": "building-your-own-r2-unit-in-ruby",
+  "speaker": "jamie-wright",
+  "summary": "This talk will teach the best practices in architecture, user interaction, and development in Ruby for developing chat bots from a developer who has a successful bot in the Slack app directory.",
+  "tags": [
+    "ruby",
+    "bots"
+  ]
+}

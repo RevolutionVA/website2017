@@ -1,0 +1,11 @@
+{
+  "title": "A Distributed Orchestra",
+  "slug": "a-distributed-orchestra",
+  "speaker": "myles-borins",
+  "summary": "A professor once told me that everything in the universe can be broken down into a series of sinusoids. Everyone in the audience who can open a browser is potentially a sinusoid waiting to be made into something. Come with your browsers open and your sound cranked and lets see what we can make. I've been experimenting with using the phones of audience members to make sound art. The first experiment was with a distributed harmonic over tone series, the second experiment expanded that to allow me to play a room like a synthesizer. This talk would continue this exploration by using the audience to live perform a composition. After the performance we will examine both the software stack and the music theory behind what we had just experienced. Participants will walk away better understanding how sound works, and perhaps be inspired to get started with making distributed sound art.",
+  "tags": [
+    "nodejs",
+    "music",
+    "theory"
+  ]
+}

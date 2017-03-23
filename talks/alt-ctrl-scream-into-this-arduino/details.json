@@ -1,0 +1,11 @@
+{
+  "title": "Alt-Ctrl : Scream into this Arduino",
+  "slug": "alt-ctrl-scream-into-this-arduino",
+  "speaker": "rachel-white",
+  "summary": "As IoT integration into our daily lives becomes more and more advanced, what are the different ways we can control devices? There's a plethora of sensors & modules you can use to interact with hardware, even some you can put in your own body, so let's see how far we can take it.",
+  "tags": [
+    "biohacking",
+    "iot",
+    "javascript"
+  ]
+}

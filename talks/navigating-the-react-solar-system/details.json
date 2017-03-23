@@ -1,0 +1,11 @@
+{
+  "title": "Navigating the React Solar System",
+  "slug": "navigating-the-react-solar-system",
+  "speaker": "ben-ilegbodu",
+  "summary": "Let’s walk through the tools and libraries that surround React and learn which you should prioritize learning first.",
+  "tags": [
+    "react",
+    "redux",
+    "flux"
+  ]
+}

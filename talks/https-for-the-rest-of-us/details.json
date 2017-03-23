@@ -1,0 +1,10 @@
+{
+  "title": "HTTPS For the rest of us",
+  "slug": "https-for-the-rest-of-us",
+  "speaker": "kevin-jones",
+  "summary": "HTTPS hit an amazing milestone in late 2016: over half of web browsing was done over HTTPS. In this session we'll look at why HTTPS is necessary for all websites of all shapes and sizes, and how you can get started on offering your site visitors better HTTPS security.",
+  "tags": [
+    "security",
+    "web"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "HackedDB: All Your Data Are Belong To Us",
+  "slug": "hackeddb-all-your-data-are-belong-to-us",
+  "speaker": "david-makogon",
+  "summary": "Database security is super-important. Every database engine has built-in security. Every network can be locked down. So, why so many unarmed databases? Why is it so easy for someone to get to your data???\n\nLearn how to lock down your database, your computer, and your network. Avoid the hack!",
+  "tags": [
+    "relational",
+    "nosql",
+    "data"
+  ]
+}

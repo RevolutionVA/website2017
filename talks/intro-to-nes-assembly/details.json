@@ -1,0 +1,15 @@
+{
+  "title": "Intro to NES Assembly",
+  "slug": "intro-to-nes-assembly",
+  "speaker": "kevin-zurawel",
+  "summary": "The Nintendo Entertainment System was home to classics like Super Mario Brothers, Contra, and Final Fantasy. We'll explore how the NES' hardware works at a low level, how some of your favorite games compensate for limited resources, and talk about how you can get started writing your own NES games!",
+  "tags": [
+    "hardware",
+    "nes",
+    "nintendo",
+    "games",
+    "assembly",
+    "programming",
+    "gaming"
+  ]
+}

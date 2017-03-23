@@ -1,0 +1,11 @@
+{
+  "title": "Building Amazon Alexa SKills w/ C#, JavaScript and Azure",
+  "slug": "building-amazon-alexa-skills-w-c-javascript-and-azure",
+  "speaker": "chris-williams",
+  "summary": "Learn to build Amazon Echo Skills in Visual Studio - Amazon provides examples and support for building Echo skills, but only in Java, NodeJS and Python.  Now there's no need to feel left out if you're a .NET Developer. \n\nIn this talk, I'll walk through the process, and we'll do it all in C# & JSON.",
+  "tags": [
+    "iot",
+    "javascript",
+    "dotnet"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "The Timeless Way of Building",
+  "slug": "the-timeless-way-of-building",
+  "speaker": "john-athayde",
+  "summary": "\"Design patterns\" is a common phrase that is often spoken in the course of design and development of web applications. But it's genesis is not from programming, but Architecture. Through a lack of understanding, they are misused and abused. We're going to rectify that misunderstanding.",
+  "tags": [
+    "ruby",
+    "rails",
+    "ux",
+    "designpatterns"
+  ]
+}

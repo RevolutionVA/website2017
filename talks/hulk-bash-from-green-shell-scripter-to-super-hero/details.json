@@ -1,0 +1,12 @@
+{
+  "title": "Hulk Bash! From green shell scripter to super hero",
+  "slug": "hulk-bash-from-green-shell-scripter-to-super-hero",
+  "speaker": "john-loy",
+  "summary": "Most developers regularly use the command line, yet rarely prioritize honing their cli and shell scripting skills. I plan to cover essential old-school shell scripting concepts with an aim of giving attendees insight into fresh uses of the newer languages they love.",
+  "tags": [
+    "nodejs",
+    "javascript",
+    "bash",
+    "cli"
+  ]
+}

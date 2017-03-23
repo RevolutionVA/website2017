@@ -1,0 +1,11 @@
+{
+  "title": "The Dr. Seuss Guide to Code Craftsmanship",
+  "slug": "the-dr-seuss-guide-to-code-craftsmanship",
+  "speaker": "emily-freeman",
+  "summary": "Dr. Seuss had it all figured out. He would have made an excellent engineer. \n\nThis talk will focus on common pitfalls along the development lifecycle and distill Dr. Seuss's excellent advice into concise steps developers can take before they write a single line of code.",
+  "tags": [
+    "process",
+    "mentorship",
+    "leadership"
+  ]
+}

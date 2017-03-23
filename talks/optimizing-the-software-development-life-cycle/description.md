@@ -1,0 +1,5 @@
+Understanding the nuances of the Software Development Life Cycle (SDLC) is a key component to a successful product launch. If you have never written a line of code in your life, this can seem even more daunting. Even seasoned developers, managers, and entrepreneurs quickly realize the difficulties involved with creating a custom application and taking it to market. 
+
+In this talk we break down the entire software development process from the onset through launch. You will gain an understanding of the different roles people will execute during the project, what types of tools they are using, and the best practices used to keep your team focused on delivering quality, on time and on budget.
+
+It does not matter if you are just considering building something based on an idea, are in the middle of a project, or have several application launches under your belt, this talk is designed to bring value and understanding to novice and veteran stakeholders alike.

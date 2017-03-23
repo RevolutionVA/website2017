@@ -1,0 +1,11 @@
+{
+  "title": "Angular: You’ve Talked About It, You’ve Read About It, Now You’re Ready to Build an Application",
+  "slug": "angular-youve-talked-about-it-youve-read-about-it-now-youre-ready-to-build-an-application",
+  "speaker": "richard-taylor",
+  "summary": "In this session, we will explore using Angular to build the major features common to all modern web applications.  This should give you a solid foundation for using Angular as an effective tool in your development toolbox.",
+  "tags": [
+    "angularjs",
+    "dotnet",
+    "javascript"
+  ]
+}

@@ -1,0 +1,3 @@
+GraphQL is mostly thought of in connection with Relay and React, but it was actually invented years before Relay.  Facebook needed a common language to query the many different databases they managed, and out of that constraint, GraphQL was born.
+
+We will look at the technology, it's best use cases, and the state of language support for it.  I will show some real world examples in Ruby/Python/Elixir/Javascript, and also talk in general about our polyglot team's explorations of the technology.

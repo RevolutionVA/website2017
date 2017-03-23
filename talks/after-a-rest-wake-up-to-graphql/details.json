@@ -1,0 +1,10 @@
+{
+  "title": "After a REST, wake up to GraphQL",
+  "slug": "after-a-rest-wake-up-to-graphql",
+  "speaker": "daniel-farrell",
+  "summary": "RESTful APIs are great, except when they aren't. There is a new technology in the API world that needs to be taken seriously. Coming out of Facebook, GraphQL is a single-endpoint query language API that can solve the issues with your tough RESTful use cases.",
+  "tags": [
+    "graphql",
+    "react"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Anatomy of a Progressive Web App",
+  "slug": "anatomy-of-a-progressive-web-app",
+  "speaker": "mike-north",
+  "summary": "Progressive web apps aim to be reliable, fast and engaging, regardless of form factor or quality of internet connection. We'll walk through several key aspects of PWAs, illustrating performance and usability improvements by showing quantitative comparisons to an equivalent \"classic SPA\".",
+  "tags": [
+    "pwa",
+    "ui",
+    "ux"
+  ]
+}

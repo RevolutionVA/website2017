@@ -1,0 +1,10 @@
+{
+  "title": "Web APIs You Didn’t Know Existed",
+  "slug": "web-apis-you-didnt-know-existed",
+  "speaker": "zeno-rocha",
+  "summary": "You’ve probably heard about the amazing things that HTML5 can do. Maybe you already saved some data using Local Storage, fetched user coordinates using Geolocation, or even drew graphs and other objects using Canvas. But did you know there are many more new JavaScript APIs in the Web Platform?",
+  "tags": [
+    "html5",
+    "javascript"
+  ]
+}

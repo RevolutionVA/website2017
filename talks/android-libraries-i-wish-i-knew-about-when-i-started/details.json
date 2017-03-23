@@ -1,0 +1,10 @@
+{
+  "title": "Android libraries I wish I knew about when I started",
+  "slug": "android-libraries-i-wish-i-knew-about-when-i-started",
+  "speaker": "chris-guzman",
+  "summary": "There’s no sense in re-inventing the wheel when you’re starting out. This talk will cover a range of libraries that will help you tackle the problems other people have already solved. Whether you’re loading data from a web api, showing images, or syncing data there’s a library that can help you out!",
+  "tags": [
+    "android",
+    "libraries"
+  ]
+}

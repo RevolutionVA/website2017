@@ -1,0 +1,10 @@
+{
+  "title": "Actually Understanding Asynchronous JavaScript",
+  "slug": "actually-understanding-asynchronous-javascript",
+  "speaker": "steve-kinney",
+  "summary": "Reasoning about asynchronous JavaScript doesn't have to be maddening once you understand what's going on under the hood. In this talk, we'll take a good, hard look at how the browser and Node.js implement asynchrony and how to reason about it and build on top of it with confidence and moxie.",
+  "tags": [
+    "frontend",
+    "javascript"
+  ]
+}

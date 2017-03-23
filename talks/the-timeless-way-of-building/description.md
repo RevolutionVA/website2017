@@ -1,0 +1,5 @@
+"Design patterns" is a common phrase that is often spoken in the course of design and development of web applications. But it's genesis is not from programming, but Architecture. They come from a trio of books in the 1970s by Christopher Alexander, the most famous of which is the middle book: "A Pattern Language". The issue arises that Pattern Languages, much like spoken languages, are most effective when the speaker is fluent. 
+
+We'll look at the origin of pattern languages (and later, pattern libraries) and why they can be dangerous and even detrimental tools in the hands of the inexperienced designer and developer. Through examples of bad grammar, poor idiomatic choices, and horrible experience flows (aka antipatterns), we’ll explore “the quality of a space that can’t be named” and see if we can create that in the products we create. We may even look at some architecture (buildings) as well. 
+
+While this talk does show specific code and design examples, the concepts are high-level and Christopher Alexander’s work has been applied to many different fields.

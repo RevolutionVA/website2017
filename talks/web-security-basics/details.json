@@ -1,0 +1,11 @@
+{
+  "title": "Web Security Basics",
+  "slug": "web-security-basics",
+  "speaker": "eli-white",
+  "summary": "We will focus during these 30 minutes on the main security issues that affect web developers today (and also affected us 10 years ago).  This will include XSS, CSRF, and SQL Injection.  We will cover why they still exist and how to detect and stop them in your own code.",
+  "tags": [
+    "websecurity",
+    "xss",
+    "sqlinjection"
+  ]
+}

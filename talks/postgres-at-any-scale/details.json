@@ -1,0 +1,10 @@
+{
+  "title": "Postgres at Any Scale",
+  "slug": "postgres-at-any-scale",
+  "speaker": "will-leinweber",
+  "summary": "In this talk you'll learn how to get the most out of Postgres for small- and medium-sized apps, where it's been a great DB. And for when your data eventually grows, you'll learn how to architect your app to take advantage of Citus, an open-source extension that transforms PG into a distributed DB.",
+  "tags": [
+    "relational",
+    "postgresql"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Scale Your Node Application, Skip the Infrastructure",
+  "slug": "scale-your-node-application-skip-the-infrastructure",
+  "speaker": "matt-williams",
+  "summary": "Serverless, and specifically AWS Lambda, is the new hotness. Getting started is pretty easy, but getting past the basics can be a bit rough. This session goes past the getting started stage and continues with real life architectural learnings about how to make amazing applications on Lambda.",
+  "tags": [
+    "aws",
+    "nodejs",
+    "serverless"
+  ]
+}

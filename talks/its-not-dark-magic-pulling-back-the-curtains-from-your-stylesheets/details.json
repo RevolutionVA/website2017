@@ -1,0 +1,10 @@
+{
+  "title": "It's Not Dark Magic - Pulling Back the Curtains From Your Stylesheets",
+  "slug": "its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets",
+  "speaker": "aimee-knight",
+  "summary": "Developers are often left puzzled when browsers render CSS in unexpected ways. It’s not dark magic though. We know computers are just parsing our instructions. This talk focuses on why things behave the way they do by deep diving into browser internals to see how our styles are parsed and rendered.",
+  "tags": [
+    "frontend",
+    "css"
+  ]
+}

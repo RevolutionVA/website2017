@@ -1,0 +1,2 @@
+There’s no sense in re-inventing the wheel when you’re working on Android apps, especially if you’re just starting out. This talk will cover a range of libraries you can include in your Android apps that will help you tackle the problems other people have already solved. Whether you’re loading data from a web api, showing & caching images, or storing & syncing data there’s a library you can pull in to help you out!
+No prior knowledge of any of these libraries required. Libraries covered will include: Butter Knife, Picasso, Gson, Retrofit, Realm, Dart & Henson.

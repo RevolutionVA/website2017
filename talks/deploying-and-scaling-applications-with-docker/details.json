@@ -1,0 +1,10 @@
+{
+  "title": "Deploying And Scaling Applications With Docker",
+  "slug": "deploying-and-scaling-applications-with-docker",
+  "speaker": "bret-fisher",
+  "summary": "This workshop will show how to deploy and scale applications in containers using reusable, adaptable patterns. You'll get an AWS Docker setup for the day. You'll compose a multi-service app, create a Docker Swarm, and deploy and update the app without downtime. All using the latest features.",
+  "tags": [
+    "docker",
+    "containers"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "The Road to the White House Goes Through the Cloud",
+  "slug": "the-road-to-the-white-house-goes-through-the-cloud",
+  "speaker": "joel-cochran",
+  "summary": "Today's Presidential campaigns have the technical sophistication of a modern enterprise, the constrained environment of a startup, and a relentless time frame. Political rhetoric may get air time, but data wins elections. Political operatives use data analytics to target communications, identify supporters, garner donations, organize field staff, drive voter turnout, and predict outcomes. In this session, Microsoft's Campaign Technology Services team will discuss: its role in the 2016 U.S. Presidential campaigns; the Iowa Caucuses and the party conventions; our customers' adoption of Machine Learning, various Azure data platform tools, and the broad implementation of Power BI visualizations.",
+  "tags": [
+    "data",
+    "cloud",
+    "azure"
+  ]
+}

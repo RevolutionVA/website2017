@@ -1,0 +1,10 @@
+{
+  "title": "class HotDog extends Sandwich",
+  "slug": "class-hotdog-extends-sandwich",
+  "speaker": "justin-falcone",
+  "summary": "There are two hard problems in computer science: cache invalidation and naming things. This talk is about the second part. Specifically, its about how programmers can use linguistics to think about classes, types and protocols, and how you can make your code resemble the way you think.",
+  "tags": [
+    "oop",
+    "ontology"
+  ]
+}

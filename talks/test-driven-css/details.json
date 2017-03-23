@@ -1,0 +1,11 @@
+{
+  "title": "Test-driven CSS",
+  "slug": "test-driven-css",
+  "speaker": "juan-caicedo",
+  "summary": "What if you could safely refactor CSS knowing you didn't break anything?",
+  "tags": [
+    "testing",
+    "tdd",
+    "css"
+  ]
+}

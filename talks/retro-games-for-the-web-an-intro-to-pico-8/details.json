@@ -1,0 +1,10 @@
+{
+  "title": "Retro Games For the Web: An Intro to PICO-8",
+  "slug": "retro-games-for-the-web-an-intro-to-pico-8",
+  "speaker": "byron-hulcher",
+  "summary": "PICO-8 is a \"fantasy game console\" for the web influenced by old systems like the Atari, NES, and SEGA Master System. Learn how to make games and art using the PICO-8's built in code, art, and sound editors, then publish your games online!",
+  "tags": [
+    "gamedev",
+    "lua"
+  ]
+}

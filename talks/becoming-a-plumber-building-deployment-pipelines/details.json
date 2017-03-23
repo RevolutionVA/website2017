@@ -1,0 +1,11 @@
+{
+  "title": "Becoming a Plumber: Building Deployment Pipelines",
+  "slug": "becoming-a-plumber-building-deployment-pipelines",
+  "speaker": "daniel-barker",
+  "summary": "A core part of our IT transformation program is the implementation of deployment pipelines. Attendees will learn how to build abstract pipelines that allow multiple applications to fit the same basic pipeline structure. This has been a big win for injecting change into our system.",
+  "tags": [
+    "devops",
+    "golang",
+    "jenkins"
+  ]
+}

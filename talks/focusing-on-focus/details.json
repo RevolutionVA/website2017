@@ -1,0 +1,11 @@
+{
+  "title": "Focusing on Focus",
+  "slug": "focusing-on-focus",
+  "speaker": "chris-demars",
+  "summary": "When we think of CSS and Accessibility, what comes to mind? Is :focus given that much thought since browser's style these by default? Often, focus outlines are turned off in CSS to meet non-inclusive design standards, but this causes problems for keyboard users.",
+  "tags": [
+    "a11y",
+    "accessibility",
+    "css"
+  ]
+}
