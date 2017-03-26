@@ -1,0 +1,1 @@
+Arpit Mathur is a Principal Engineer at Comcast Innovation Labs where he is mostly focused on Virtual Reality, Augmented Reality, Mobile and Messaging. He is also a Google Developer Group Lead for Philadelphia and leads the AndroidPhilly Google Developer Group. He is also passionate about design and user experience and used to work as an illustrator for magazines in a past life. 
