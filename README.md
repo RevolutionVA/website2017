@@ -18,14 +18,14 @@ Awesome businesses who value the conference.
 Description of each wave of ticket sales.
 
 - `\talks`<br>
-Overview about the sessions.
+Descriptions about each talk.
 
 - `\pages`<br>
-Speakers, volunteers, and organizers.
+Page content and intros used on the home page.
 
 Other files in this directory include the following:
 
 - `schedule.json` <br>List of the times and events. <a href="schedule.json.md">readme</a>
 
 
-*Note: Files prefixed with `.` or `_` are ignored by the compiler.*
+*Note: Files prefixed with `.` or `_` and readme.md files are ignored by the compiler.*
