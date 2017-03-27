@@ -1,4 +1,3 @@
-
 #Schedule
 
 The schedule object is an array of events. Each event object will be either a talk, or other event (lunch, keynote, etc). 
