@@ -1,8 +1,9 @@
-#Schedule
+# Schedule
 
 The schedule object is an array of events. Each event object will be either a talk, or other event (lunch, keynote, etc). 
 
-####Talk Event
+#### Talk Event
+
 ```
 {
 	"talk" : "howitsmade-revconf2017",
@@ -14,7 +15,7 @@ The schedule object is an array of events. Each event object will be either a ta
 
 The talk value must be the name of a folder/slug.
 
-####Other Event
+#### Other Event
 
 ```
 {
