@@ -8,8 +8,8 @@ The schedule object is an array of events. Each event object will be either a ta
 {
 	"talk" : "howitsmade-revconf2017",
 	"location": "Lynnhaven Room",
-	"start" : "01-06-2017-1000"
-	"end" : "01-06-2017-1050"
+	"start" : "2017-06-02-1000"
+	"end" : "2017-06-02-1050"
 }
 ```
 
@@ -22,8 +22,8 @@ The talk value must be the name of a folder/slug.
 	"title" : "Lunch",
 	"description" : "Turkey Burgers, Veggie Burgers, Baked Beans, Corn",
 	"location": "Ball Room A",
-	"start" : "01-06-2017-1200"
-	"end" : "01-06-2017-1315"
+	"start" : "2017-06-01-1200"
+	"end" : "2017-06-01-1315"
 }
 ```
 
