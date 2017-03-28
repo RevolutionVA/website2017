@@ -61,7 +61,6 @@
 		"start": "2017-06-02-1030",
 		"end": "2017-06-02-1115"
 	},
-	
 	{
 		"talk": "alexa-cook-my-dinner-how-iot-and-smart-devices-will-invade-your-kitchen",
 		"location": "Cape Charles",
@@ -101,12 +100,6 @@
 		"end" : "2017-06-01-1015"
 	},
 	{
-   		"talk" :"https-for-the-rest-of-us",
-		"location": "Atlantic Ballroom",
-		"start" : "2017-06-01-1030",
-		"end" : "2017-06-01-1115"
-	},
-	{
     		"talk" :"alt-ctrl-scream-into-this-arduino",
 		"location": "Atlantic Ballroom",
 		"start" : "2017-06-01-1430",
@@ -123,12 +116,6 @@
 		"location": "Atlantic Ballroom",
 		"start" : "2017-06-01-1630",
 		"end" : "2017-06-01-1715"
-	},
-	{
-    		"talk" :"anatomy-of-a-progressive-web-app",
-		"location": "Atlantic Ballroom",
-		"start" : "2017-06-02-0930",
-		"end" : "2017-06-02-1015"
 	},
 	{
     		"talk" :"hackeddb-all-your-data-are-belong-to-us",
@@ -153,12 +140,6 @@
 		"location": "Atlantic Ballroom",
 		"start" : "2017-06-02-1630",
 		"end" : "2017-06-02-1715"
-	},
-	{
-    		"talk" :"azure-application-services",
-		"location": "Mariner A",
-		"start" : "2017-06-01-0930",
-		"end" : "2017-06-01-1215"
 	},
 	{
 	    	"talk" :"esnext-fundamentals-workshop",
