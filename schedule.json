@@ -3,8 +3,8 @@
 		"title": "Opening Remarks",
 		"description": "",
 		"location": "Atlantic Ballroom",
-		"start": "2017-06-02-0900",
-		"end": "2017-06-02-0915"
+		"start": "2017-06-01-0900",
+		"end": "2017-06-01-0915"
 	},
 	{
 		"talk": "anatomy-of-a-progressive-web-app",
@@ -16,82 +16,82 @@
 		"talk": "azure-application-services",
 		"location": "Mariner A",
 		"track": "workshop",
-		"start": "2017-06-02-0930",
-		"end": "2017-06-02-1215"
+		"start": "2017-06-01-0930",
+		"end": "2017-06-01-1215"
 	},
 	{
 		"talk": "class-hotdog-extends-sandwich",
 		"location": "Cape Charles A",
-		"start": "2017-06-02-0930",
-		"end": "2017-06-02-1015"
+		"start": "2017-06-01-0930",
+		"end": "2017-06-01-1015"
 	},
 	{
 		"talk": "android-libraries-i-wish-i-knew-about-when-i-started",
 		"location": "False Cape",
-		"start": "2017-06-02-0930",
-		"end": "2017-06-02-1015"
+		"start": "2017-06-01-0930",
+		"end": "2017-06-01-1015"
 	},
 	{
 		"talk": "becoming-a-plumber-building-deployment-pipelines",
 		"location": "Cape Henry",
-		"start": "2017-06-02-0930",
-		"end": "2017-06-02-1015"
+		"start": "2017-06-01-0930",
+		"end": "2017-06-01-1015"
 	},
 	{
 		"talk": "https-for-the-rest-of-us",
 		"location": "Atlantic Ballroom",
-		"start": "2017-06-02-1030",
-		"end": "2017-06-02-1115"
+		"start": "2017-06-01-1030",
+		"end": "2017-06-01-1115"
 	},
 	{
 		"talk": "retro-games-for-the-web-an-intro-to-pico-8",
 		"location": "Cape Charles",
-		"start": "2017-06-02-1030",
-		"end": "2017-06-02-1115"
+		"start": "2017-06-01-1030",
+		"end": "2017-06-01-1115"
 	},
 	{
 		"talk": "after-a-rest-wake-up-to-graphql",
 		"location": "False Cape",
-		"start": "2017-06-02-1030",
-		"end": "2017-06-02-1115"
+		"start": "2017-06-01-1030",
+		"end": "2017-06-01-1115"
 	},
 	{
 		"talk": "the-timeless-way-of-building",
 		"location": "Cape Henry",
-		"start": "2017-06-02-1030",
-		"end": "2017-06-02-1115"
+		"start": "2017-06-01-1030",
+		"end": "2017-06-01-1115"
 	},
 	{
 		"talk": "alexa-cook-my-dinner-how-iot-and-smart-devices-will-invade-your-kitchen",
 		"location": "Cape Charles",
-		"start": "2017-06-02-1130",
-		"end": "2017-06-02-1215"
+		"start": "2017-06-01-1130",
+		"end": "2017-06-01-1215"
 	},
 	{
 		"talk": "when-developer-must-become-designer-how-to-be-a-one-person-ux-team",
 		"location": "False Cape",
-		"start": "2017-06-02-1130",
-		"end": "2017-06-02-1215"
+		"start": "2017-06-01-1130",
+		"end": "2017-06-01-1215"
 	},
 	{
 		"talk": "using-bots-for-software-education",
 		"location": "Cape Henry",
-		"start": "2017-06-02-1130",
-		"end": "2017-06-02-1215"
+		"start": "2017-06-01-1130",
+		"end": "2017-06-01-1215"
 	},
 	{
 		"title": "Lunch",
 		"description": "",
 		"location": "Atlantic Ballroom",
-		"start": "2017-06-02-1200",
-		"end": "2017-06-02-1330"
+		"start": "2017-06-01-1200",
+		"end": "2017-06-01-1330"
 	},
 	{
 		"title": "Keynote",
 		"description": "",
 		"location": "Atlantic Ballroom",
-		"start": "2017-06-02-1330",
-		"end": "2017-06-02-1415"
+		"start": "2017-06-01-1330",
+		"end": "2017-06-01-1415"
 	},
 	{
     		"talk": "its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets",
@@ -145,7 +145,7 @@
 	    	"talk": "esnext-fundamentals-workshop",
 		"location": "Mariner A",
 		"start": "2017-06-01-1430",
-		"end": "2017-06-01-1515"
+		"end": "2017-06-01-1715"
 	},
 	{
     		"talk": "building-and-deploying-microservices-with-aws",
@@ -157,7 +157,7 @@
     		"talk": "deploying-and-scaling-applications-with-docker",
 		"location": "Mariner A",
 		"start": "2017-06-02-1430",
-		"end": "2017-06-02-1515"
+		"end": "2017-06-02-1715"
 	}
 	
 ]
