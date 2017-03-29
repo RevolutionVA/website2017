@@ -61,7 +61,6 @@
 		"start": "2017-06-02-1030",
 		"end": "2017-06-02-1115"
 	},
-	
 	{
 		"talk": "alexa-cook-my-dinner-how-iot-and-smart-devices-will-invade-your-kitchen",
 		"location": "Cape Charles",
@@ -93,5 +92,72 @@
 		"location": "Atlantic Ballroom",
 		"start": "2017-06-02-1330",
 		"end": "2017-06-02-1415"
+	},
+	{
+    		"talk": "its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets",
+		"location": "Atlantic Ballroom",
+		"start": "2017-06-01-0930",
+		"end": "2017-06-01-1015"
+	},
+	{
+    		"talk": "alt-ctrl-scream-into-this-arduino",
+		"location": "Atlantic Ballroom",
+		"start": "2017-06-01-1430",
+		"end": "2017-06-01-1515"
+	},
+	{
+    		"talk": "scale-your-node-application-skip-the-infrastructure",
+		"location": "Atlantic Ballroom",
+		"start": "2017-06-01-1530",
+		"end": "2017-06-01-1615"
+	},
+	{
+    		"talk": "intro-to-nes-assembly",
+		"location": "Atlantic Ballroom",
+		"start": "2017-06-01-1630",
+		"end": "2017-06-01-1715"
+	},
+	{
+    		"talk": "hackeddb-all-your-data-are-belong-to-us",
+		"location": "Atlantic Ballroom",
+		"start": "2017-06-02-1030",
+		"end": "2017-06-02-1115"
+	},
+	{
+    		"talk":"navigating-the-react-solar-system",
+		"location": "Atlantic Ballroom",
+		"start": "2017-06-02-1430",
+		"end": "2017-06-02-1515"
+	},
+	{
+    		"talk": "a-distributed-orchestra",
+		"location": "Atlantic Ballroom",
+		"start": "2017-06-02-1530",
+		"end":	"2017-06-02-1615"
+	},
+	{
+    		"talk": "intro-to-hololens-development",
+		"location": "Atlantic Ballroom",
+		"start": "2017-06-02-1630",
+		"end": "2017-06-02-1715"
+	},
+	{
+	    	"talk": "esnext-fundamentals-workshop",
+		"location": "Mariner A",
+		"start": "2017-06-01-1430",
+		"end": "2017-06-01-1515"
+	},
+	{
+    		"talk": "building-and-deploying-microservices-with-aws",
+		"location": "Mariner A",
+		"start": "2017-06-02-0930",
+		"end": "2017-06-02-1215"
+	},
+	{
+    		"talk": "deploying-and-scaling-applications-with-docker",
+		"location": "Mariner A",
+		"start": "2017-06-02-1430",
+		"end": "2017-06-02-1515"
 	}
+	
 ]
