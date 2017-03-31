@@ -94,232 +94,231 @@
 		"end": "2017-06-01-1415"
 	},
 	{
-    		"talk": "its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets",
+		"talk": "its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets",
 		"location": "Atlantic Ballroom",
 		"start": "2017-06-01-0930",
 		"end": "2017-06-01-1015"
 	},
 	{
-    		"talk": "alt-ctrl-scream-into-this-arduino",
+		"talk": "alt-ctrl-scream-into-this-arduino",
 		"location": "Atlantic Ballroom",
 		"start": "2017-06-01-1430",
 		"end": "2017-06-01-1515"
 	},
 	{
-    		"talk": "scale-your-node-application-skip-the-infrastructure",
+		"talk": "scale-your-node-application-skip-the-infrastructure",
 		"location": "Atlantic Ballroom",
 		"start": "2017-06-01-1530",
 		"end": "2017-06-01-1615"
 	},
 	{
-    		"talk": "intro-to-nes-assembly",
+		"talk": "intro-to-nes-assembly",
 		"location": "Atlantic Ballroom",
 		"start": "2017-06-01-1630",
 		"end": "2017-06-01-1715"
 	},
 	{
-    		"talk": "hackeddb-all-your-data-are-belong-to-us",
+		"talk": "hackeddb-all-your-data-are-belong-to-us",
 		"location": "Atlantic Ballroom",
 		"start": "2017-06-02-1030",
 		"end": "2017-06-02-1115"
 	},
 	{
-    		"talk":"navigating-the-react-solar-system",
+		"talk": "navigating-the-react-solar-system",
 		"location": "Atlantic Ballroom",
 		"start": "2017-06-02-1430",
 		"end": "2017-06-02-1515"
 	},
 	{
-    		"talk": "a-distributed-orchestra",
+		"talk": "a-distributed-orchestra",
 		"location": "Atlantic Ballroom",
 		"start": "2017-06-02-1530",
-		"end":	"2017-06-02-1615"
+		"end": "2017-06-02-1615"
 	},
 	{
-    		"talk": "intro-to-hololens-development",
+		"talk": "intro-to-hololens-development",
 		"location": "Atlantic Ballroom",
 		"start": "2017-06-02-1630",
 		"end": "2017-06-02-1715"
 	},
 	{
-	    	"talk": "esnext-fundamentals-workshop",
+		"talk": "esnext-fundamentals-workshop",
 		"location": "Mariner A",
 		"start": "2017-06-01-1430",
 		"end": "2017-06-01-1715"
 	},
 	{
-    		"talk": "building-and-deploying-microservices-with-aws",
+		"talk": "building-and-deploying-microservices-with-aws",
 		"location": "Mariner A",
 		"start": "2017-06-02-0930",
 		"end": "2017-06-02-1215"
 	},
 	{
-    		"talk": "deploying-and-scaling-applications-with-docker",
+		"talk": "deploying-and-scaling-applications-with-docker",
 		"location": "Mariner A",
 		"start": "2017-06-02-1430",
 		"end": "2017-06-02-1515"
 	},
 	{
-    		"talk": "building-amazon-alexa-skills-w-c-javascript-and-azure",
-    		"location": "Cape Charles",
-    		"start": "2017-06-01-1430",
-    		"end": "2017-06-01-1515"
+		"talk": "building-amazon-alexa-skills-w-c-javascript-and-azure",
+		"location": "Cape Charles",
+		"start": "2017-06-01-1430",
+		"end": "2017-06-01-1515"
 	},
 	{
-    		"talk": "the-future-of-delivery-messenger-channels-with-sms-fallback",
-    		"location": "Cape Charles",
-    		"start": "2017-06-01-1530",
-    		"end": "2017-06-01-1615"
+		"talk": "the-future-of-delivery-messenger-channels-with-sms-fallback",
+		"location": "Cape Charles",
+		"start": "2017-06-01-1530",
+		"end": "2017-06-01-1615"
 	},
 	{
-    		"talk": "angular-youve-talked-about-it-youve-read-about-it-now-youre-ready-to-build-an-application",
-    		"location": "Cape Charles",
-    		"start": "2017-06-01-1630",
-    		"end": "2017-06-01-1715"
+		"talk": "angular-youve-talked-about-it-youve-read-about-it-now-youre-ready-to-build-an-application",
+		"location": "Cape Charles",
+		"start": "2017-06-01-1630",
+		"end": "2017-06-01-1715"
 	},
 	{
-    		"talk": "nicolas-cage-the-path-to-programming",
-    		"location": "Cape Charles",
-    		"start": "2017-06-02-0930",
-    		"end": "2017-06-02-1015"
+		"talk": "nicolas-cage-the-path-to-programming",
+		"location": "Cape Charles",
+		"start": "2017-06-02-0930",
+		"end": "2017-06-02-1015"
 	},
 	{
-    		"talk": "my-favorite-algorithm-path-tracing-photorealistic-3d-images",
-    		"location": "Cape Charles",
-    		"start": "2017-06-02-1030",
-    		"end": "2017-06-02-1115"
+		"talk": "my-favorite-algorithm-path-tracing-photorealistic-3d-images",
+		"location": "Cape Charles",
+		"start": "2017-06-02-1030",
+		"end": "2017-06-02-1115"
 	},
 	{
-    		"talk": "a-prettier-printer",
-    		"location": "Cape Charles",
-    		"start": "2017-06-02-1130",
-    		"end": "2017-06-02-1215"
+		"talk": "a-prettier-printer",
+		"location": "Cape Charles",
+		"start": "2017-06-02-1130",
+		"end": "2017-06-02-1215"
 	},
 	{
-    		"talk": "postgres-at-any-scale",
-    		"location": "Cape Charles",
-    		"start": "2017-06-02-1430",
-    		"end": "2017-06-02-1515"
+		"talk": "postgres-at-any-scale",
+		"location": "Cape Charles",
+		"start": "2017-06-02-1430",
+		"end": "2017-06-02-1515"
 	},
 	{
-    		"talk": "10-ways-to-get-designers-into-your-codebase",
-    		"location": "Cape Charles",
-    		"start": "2017-06-02-1530",
-    		"end": "2017-06-02-1615"
-	},
-	{
-    		"talk": "optimizing-the-software-development-life-cycle",
-    		"location": "Cape Charles",
-    		"start": "2017-06-02-1630",
-    		"end": "2017-06-02-1715"
-	},
-	{
-    		"talk": "building-for-the-next-billion",
-    		"location": "False Cape",
-    		"start": "2017-06-01-1430",
-    		"end": "2017-06-01-1515"
-	},
-	{
-    		"talk": "10x-your-tech-career",
-    		"location": "False Cape",
-    		"start": "2017-06-01-1530",
-    		"end": "2017-06-01-1615"
-	},
-	{
-    		"talk": "on-how-your-brain-is-conspiring-against-you-making-good-software",
-    		"location": "False Cape",
-    		"start": "2017-06-01-1630",
-    		"end": "2017-06-01-1715"
-	},
-	{
-    		"talk": "hulk-bash-from-green-shell-scripter-to-super-hero",
-    		"location": "False Cape",
-    		"start": "2017-06-02-0930",
-    		"end": "2017-06-02-1015"
-	},
-	{
-    		"talk": "the-dr-seuss-guide-to-code-craftsmanship",
-    		"location": "False Cape",
-    		"start": "2017-06-02-1030",
-    		"end": "2017-06-02-1115"
-	},
-	{
-    		"talk": "i-have-add-and-so-can-ooh-shiny",
-    		"location": "False Cape",
-    		"start": "2017-06-02-1130",
-    		"end": "2017-06-02-1215"
-	},
-	{
-    		"talk": "building-web-services-in-golang",
-    		"location": "False Cape",
-    		"start": "2017-06-02-1430",
-    		"end": "2017-06-02-1515"
-	},
-	{
-    		"talk": "the-road-to-the-white-house-goes-through-the-cloud",
-    		"location": "False Cape",
-    		"start": "2017-06-02-1530",
-    		"end": "2017-06-02-1615"
-	},
-	{
-    		"talk": "web-apis-you-didnt-know-existed",
-    		"location": "False Cape",
-    		"start": "2017-06-02-1630",
-    		"end": "2017-06-02-1715"
-	},
-	{
-    		"talk": "design-for-developers-5-simple-design-principles-to-make-your-ui-not-look-terrible",
-    		"location": "Cape Henry",
-    		"start": "2017-06-01-1430",
-    		"end": "2017-06-01-1515"
-	},
-	{
-    		"talk": "focusing-on-focus",
-    		"location": "Cape Henry",
-    		"start": "2017-06-01-1530",
-    		"end": "2017-06-01-1615"
-	},
-	{
-    		"talk": "test-driven-css",
-    		"location": "Cape Henry",
-    		"start": "2017-06-01-1630",
-    		"end": "2017-06-01-1715"
-	},
-	{
-    		"talk": "better-fearless-feedback-for-software-teams",
-    		"location": "Cape Henry",
-    		"start": "2017-06-02-0930",
-    		"end": "2017-06-02-1015"
-	},
-	{
-    		"talk": "building-your-own-r2-unit-in-ruby",
-    		"location": "Cape Henry",
-    		"start": "2017-06-02-1030",
-    		"end": "2017-06-02-1115"
-	},
-	{
-    		"talk": "web-security-basics",
-    		"location": "Cape Henry",
-    		"start": "2017-06-02-1130",
-    		"end": "2017-06-02-1215"
-	},
-	{
-    		"talk": "actionable-advice-for-moving-faster-as-a-front-end-engineer",
-    		"location": "Cape Henry",
-    		"start": "2017-06-02-1430",
-  	 	"end": "2017-06-02-1515"
-	},
-	{
-    		"talk": "hacking-the-universe-with-quantum-computers",
-   		"location": "Cape Henry",
-   	 	"start": "2017-06-02-1530",
+		"talk": "10-ways-to-get-designers-into-your-codebase",
+		"location": "Cape Charles",
+		"start": "2017-06-02-1530",
 		"end": "2017-06-02-1615"
 	},
 	{
- 	   	"talk": "TBD",
-  	 	"location": "Cape Henry",
-    		"start": "2017-06-02-1630",
-    		"end": "2017-06-02-1715"
+		"talk": "optimizing-the-software-development-life-cycle",
+		"location": "Cape Charles",
+		"start": "2017-06-02-1630",
+		"end": "2017-06-02-1715"
+	},
+	{
+		"talk": "building-for-the-next-billion",
+		"location": "False Cape",
+		"start": "2017-06-01-1430",
+		"end": "2017-06-01-1515"
+	},
+	{
+		"talk": "10x-your-tech-career",
+		"location": "False Cape",
+		"start": "2017-06-01-1530",
+		"end": "2017-06-01-1615"
+	},
+	{
+		"talk": "on-how-your-brain-is-conspiring-against-you-making-good-software",
+		"location": "False Cape",
+		"start": "2017-06-01-1630",
+		"end": "2017-06-01-1715"
+	},
+	{
+		"talk": "hulk-bash-from-green-shell-scripter-to-super-hero",
+		"location": "False Cape",
+		"start": "2017-06-02-0930",
+		"end": "2017-06-02-1015"
+	},
+	{
+		"talk": "the-dr-seuss-guide-to-code-craftsmanship",
+		"location": "False Cape",
+		"start": "2017-06-02-1030",
+		"end": "2017-06-02-1115"
+	},
+	{
+		"talk": "i-have-add-and-so-can-ooh-shiny",
+		"location": "False Cape",
+		"start": "2017-06-02-1130",
+		"end": "2017-06-02-1215"
+	},
+	{
+		"talk": "building-web-services-in-golang",
+		"location": "False Cape",
+		"start": "2017-06-02-1430",
+		"end": "2017-06-02-1515"
+	},
+	{
+		"talk": "the-road-to-the-white-house-goes-through-the-cloud",
+		"location": "False Cape",
+		"start": "2017-06-02-1530",
+		"end": "2017-06-02-1615"
+	},
+	{
+		"talk": "web-apis-you-didnt-know-existed",
+		"location": "False Cape",
+		"start": "2017-06-02-1630",
+		"end": "2017-06-02-1715"
+	},
+	{
+		"talk": "design-for-developers-5-simple-design-principles-to-make-your-ui-not-look-terrible",
+		"location": "Cape Henry",
+		"start": "2017-06-01-1430",
+		"end": "2017-06-01-1515"
+	},
+	{
+		"talk": "focusing-on-focus",
+		"location": "Cape Henry",
+		"start": "2017-06-01-1530",
+		"end": "2017-06-01-1615"
+	},
+	{
+		"talk": "test-driven-css",
+		"location": "Cape Henry",
+		"start": "2017-06-01-1630",
+		"end": "2017-06-01-1715"
+	},
+	{
+		"talk": "better-fearless-feedback-for-software-teams",
+		"location": "Cape Henry",
+		"start": "2017-06-02-0930",
+		"end": "2017-06-02-1015"
+	},
+	{
+		"talk": "building-your-own-r2-unit-in-ruby",
+		"location": "Cape Henry",
+		"start": "2017-06-02-1030",
+		"end": "2017-06-02-1115"
+	},
+	{
+		"talk": "web-security-basics",
+		"location": "Cape Henry",
+		"start": "2017-06-02-1130",
+		"end": "2017-06-02-1215"
+	},
+	{
+		"talk": "actionable-advice-for-moving-faster-as-a-front-end-engineer",
+		"location": "Cape Henry",
+		"start": "2017-06-02-1430",
+		"end": "2017-06-02-1515"
+	},
+	{
+		"talk": "hacking-the-universe-with-quantum-computers",
+		"location": "Cape Henry",
+		"start": "2017-06-02-1530",
+		"end": "2017-06-02-1615"
+	},
+	{
+		"talk": "tbd-mike-hostetler",
+		"location": "Cape Henry",
+		"start": "2017-06-02-1630",
+		"end": "2017-06-02-1715"
 	}
-	
 ]
