@@ -1,7 +1,8 @@
 Don't miss out on this amazing once a year software conference at the Virginia Beach oceanfront. Tickets will be sold in three waves only.
 
+
 **Wave 1**
-$199 January 24 - March 31
+$199 SOLD OUT
 
 **Wave 2**
 $249 April 1 - April 30
@@ -18,4 +19,4 @@ Included with your ticket:
 * Sweet t-shirt
 * Discounted hotel rooms immediately on the oceanfront
 * Sponsor swag
-* Bragging rights that you kicked of the summer by attending a great conference at the beach!
+* Bragging rights that you kicked off the summer by attending a great conference at the beach!
