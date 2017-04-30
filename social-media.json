@@ -1,5 +1,10 @@
 [
   {
+    "icon": "youtube",
+    "url": "https://www.youtube.com/channel/UCj_31lrbhf02z3E_l2pL3mg",
+    "name": "YouTube"
+  },
+  {
     "icon": "twitter",
     "url": "https://twitter.com/revconf/",
     "name": "Twitter"
