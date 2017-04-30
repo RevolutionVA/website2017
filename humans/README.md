@@ -25,7 +25,8 @@ The following properties in the details will be used.
   "companyWebsite": "https:\/\/thisisarray.com",
   "companyName": "Array Digital",
   "firstName": "Erik",
-  "lastName": "Olson"
+  "lastName": "Olson",
+  "interview": "youtubeVideoId"
 }
 ```
 
