@@ -1,1 +1,1 @@
-
+From machine learning to serverless to big data to containers, Google Cloud has a ton of fun and interesting tools to check out whether you're building mobile/web apps or a seasoned cloud architect. Learn how to make your apps understand Italian, identify different kinds of dogs, or simply provide a good experience for your users around the globe.
