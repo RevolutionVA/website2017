@@ -1,6 +1,6 @@
 {
-  "title": "My Favorite Algorithm: Path-tracing Photorealistic 3D Images",
-  "slug": "my-favorite-algorithm-path-tracing-photorealistic-3d-images",
+  "title": "Playing with Pixels: Photorealistic 3D in JavaScript",
+  "slug": "playing-with-pixels",
   "speaker": "hunter-loftis",
   "summary": "I've always loved everything Pixar creates, so when I learned just how simple their basic algorithm is, I was floored. \"I could build something like this!\" I thought - and I was right. The ideas are simple, elegant, and work in any language. For this presentation, we'll render scenes in JavaScript!",
   "tags": [
