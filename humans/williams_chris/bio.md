@@ -1,3 +1,0 @@
-Chris G. Williams is a Senior Developer for Fluor Government Group, multiple Microsoft MVP awardee (VB, XNA/DirectX, Windows Phone) and the author of Professional Windows Phone Game Development. He blogs at GeeksWithBlogs.net and also manages the MonoGame Indie Devs technical community on Facebook.
-
-He has authored numerous articles on a variety of technologies for Code Magazine, led a 14 city speaking tour and has a series of webinars produced through DevExpress.com. He is a regular presenter at conferences, code camps and user groups around the country and has founded .NET User Groups in Virginia, South Carolina and Minnesota.
