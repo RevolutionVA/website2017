@@ -1,0 +1,1 @@
+The world is changing and getting more connected. The big innovation of the last decade was turning the cell phone into the smart phone. For the next decade, everything will be made smarter.

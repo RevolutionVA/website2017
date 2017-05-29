@@ -1,5 +1,26 @@
 [
 	{
+		"title" : "Early Registration",
+		"description" : "",
+		"location": "Atlantic Foyer",
+		"start" : "2017-05-31-1500",
+		"end" : "2017-05-31-1700"
+	},
+	{
+		"title" : "Registration",
+		"description" : "",
+		"location": "Atlantic Foyer",
+		"start" : "2017-06-01-0800",
+		"end" : "2017-06-01-0900"
+	},
+	{
+		"title" : "Breakfast",
+		"description" : "",
+		"location": "Atlantic Foyer",
+		"start" : "2017-06-01-0800",
+		"end" : "2017-06-01-0900"
+	},
+	{
 		"title": "Opening Remarks",
 		"description": "",
 		"location": "Atlantic Ballroom",
@@ -160,7 +181,7 @@
 		"end": "2017-06-02-1715"
 	},
 	{
-		"talk": "building-amazon-alexa-skills-w-c-javascript-and-azure",
+		"talk": "iot-smart-cities-and-how-you-can-make-it-happen",
 		"location": "Cape Charles",
 		"start": "2017-06-01-1430",
 		"end": "2017-06-01-1515"
@@ -176,6 +197,27 @@
 		"location": "Cape Charles",
 		"start": "2017-06-01-1630",
 		"end": "2017-06-01-1715"
+	},
+	{
+		"title": "Luau",
+		"description": "",
+		"location": "Mariner's Court",
+		"start": "2017-06-01-1800",
+		"end": "2017-06-01-2100"
+	},
+	{
+		"title" : "Breakfast",
+		"description" : "",
+		"location": "Atlantic Foyer",
+		"start" : "2017-06-02-0800",
+		"end" : "2017-06-02-0900"
+	},
+	{
+		"title": "Opening Remarks",
+		"description": "",
+		"location": "Atlantic Ballroom",
+		"start": "2017-06-02-0900",
+		"end": "2017-06-02-0915"
 	},
 	{
 		"talk": "nicolas-cage-the-path-to-programming",
@@ -320,5 +362,12 @@
 		"location": "Cape Henry",
 		"start": "2017-06-02-1630",
 		"end": "2017-06-02-1715"
+	},
+	{
+		"title": "Closing Cocktail Party",
+		"description": "",
+		"location": "Surf Club Ocean Grille Restaurant",
+		"start": "2017-06-02-1800",
+		"end": "2017-06-02-2000"
 	}
 ]
