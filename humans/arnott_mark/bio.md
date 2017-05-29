@@ -1,0 +1,1 @@
+Mark Arnott is a Principal Software Engineer at Allscripts where he develops components and services that transform data into HL7 standard documents.  Mark helps organize the Raleigh Code Camp and is an active member of TRINUG.  
