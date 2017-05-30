@@ -1,8 +1,8 @@
 {
-  "title": "Azure Application Services",
+  "title": "Composing Web Solutions with Azure App Services",
   "slug": "azure-application-services",
   "speaker": "sidney-andrews",
-  "summary": "",
+  "summary": "In this workshop, we will explore the Azure App Services  (http://tryappservice.azure.com/) offering from Microsoft and how we can use a combination of apps that are part of App Services to compose a web solution that has a handful of moving parts.",
   "tags": [
     "devops",
     "azure"
