@@ -1,7 +1,7 @@
-Take your containers into production and operate clusters like a pro. We will run a sample app on a single node with Compose. Then, we will add scaling and load balancing. We will see how to provision a cluster of Docker nodes, and deploy the application on that cluster. We will see how to perform common operation tasks, and see what built-in options are available to achieve high availability.
+Take your containers into production and operate clusters like a pro. We will run a sample multi-container app on a single node with Docker Compose. Then, we will add scaling and load balancing. We will see how to provision a cluster of Docker nodes, and deploy the application on that cluster. We will see how to perform common operation tasks, and see what built-in options are available to achieve high availability.
 
 The whole workshop will use "real-world" demo applications with web frontends, web services, background workers, and stateful data stores, in order to cover a wide range of use cases.
-You won't need to pre-install Docker before the course: each student will be given credentials to connect to an individual cluster of virtual machines. So all you need is a computer with a SSH client!
+You won't need to pre-install Docker before the course: each student will be given their own environment in play-with-docker.com to use for the day with 5 nodes to learn with.
 
 This workshop uses the latest Docker features including Swarm Mode, secrets storage, blue-green deployments, routing mesh, stacks, and more.
 
@@ -19,4 +19,4 @@ DevOps staff, container operations, anyone needing to deploy containers to produ
 - Have used Dockerfile before, or at least understand how to use them.
 
 ## Tutorial hardware and/or installation requirements for attendees
-Laptop with SSH program. We'll be doing all of our work on cloud-hosted Linux instances that we'll need to SSH into.
+Laptop with Chrome or Firefox browser. That's It!
