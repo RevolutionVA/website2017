@@ -1,5 +1,5 @@
 {
-  "title": "Building and Deploying Microservices with AWS",
+  "title": "(Workshop) Building and Deploying Microservices with AWS",
   "slug": "building-and-deploying-microservices-with-aws",
   "speaker": "kevin-old",
   "summary": "Kevin Old explores the principles of serverless architecture as he walks you through building and deploying multiple services on AWS Lambda. Along the way, you’ll learn how to use the Serverless Framework to ease the burdens of managing the lifecycle and deploying services in a serverless architecture. Kevin also discusses how using the Serverless Framework for abstraction and orchestration can help deploy mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, and Google CloudFunctions. In addition, there will be discussion around patterns used in deploying real-world serverless architected applications, team dynamics and tricks for working with serverless projects, pain points and their solutions and much more.",
