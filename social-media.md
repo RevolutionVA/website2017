@@ -1,7 +1,8 @@
 
 #Social Media
+One can include any social media like instagram, twitter etc.
 
-The social media object is an array of links. Each link object is a diffent link to a social media account. Include the full url.
+The social media object is an array of links. Each link object is a diffent link to a social media account. Also include the full url.
 
 ```
   {
