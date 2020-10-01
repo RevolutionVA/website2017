@@ -1,4 +1,4 @@
-# Revolution Conference 2017 
+# Revolutionary Conference 2017 
 
 *An experiment with community driven content management.*
 
