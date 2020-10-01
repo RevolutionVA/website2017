@@ -1,4 +1,4 @@
-# Revolution Conference 2017 
+# Revolution Conference 2017 -Nice Work
 
 *An experiment with community driven content management.*
 
