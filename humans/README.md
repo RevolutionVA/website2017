@@ -11,7 +11,7 @@ Each human consists of a folder in the format of lastname_firstname. Each human 
 
 Profile images should be between 300x300 and 600x600 pixels.
 
-The following properties in the details will be used.
+The following properties in the details should be used.
 
 ```
 {
@@ -30,7 +30,7 @@ The following properties in the details will be used.
 }
 ```
 
-A human must have at least one of the following for the human to appear on the site:
+A human must have at least one of the following requirement for the human to appear on the site:
 
 - Board Member
 - Keynote Speaker
