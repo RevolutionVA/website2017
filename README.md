@@ -1,6 +1,6 @@
-# Revolution Conference 2017 
+# Revolution Conference 2017 - RevolutionVA a great resolution in community
 
-*An experiment with community driven content management.*
+*An experiment within community driven content management.*
 
 Thanks for helping keep the site updated and as informative as possible. 
 
