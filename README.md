@@ -4,7 +4,7 @@
 
 Thanks for helping keep the site updated and as informative as possible. 
 
-Every bit of the website content can be found in this repo and may be edited by anyone; that means you. Make your changes submit your PR and once approved they will magically appear on the website.
+Every bit of the website content can be found in this repository and may be edited by anyone(that means you). Make your changes submit your PR and once approved they will magically appear on the website.
 
 The folders in this directory represent each type of content in the site. Each folder will include instructions (readme) for editing that type of content.
 
